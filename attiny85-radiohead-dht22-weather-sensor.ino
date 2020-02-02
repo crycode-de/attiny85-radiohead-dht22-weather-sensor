@@ -48,6 +48,7 @@
  * end config *
  **************/
 
+#include <Arduino.h>
 #include <avr/wdt.h>
 #include <avr/sleep.h>
 #include <util/delay.h>
